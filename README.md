@@ -5,6 +5,14 @@ Visora is a Streamlit web app that puts two computer vision engines in one inter
 - **Text recognition (OCR):** extract text from images with Tesseract.
 - **Object detection:** identify everyday objects with a pre-trained MobileNet-SSD model.
 
+## 🌐 Live Demo
+
+**Visora is live and available to try online.**
+
+🔗 **Live Application:** [https://visora.streamlit.app](https://visora.streamlit.app)
+
+> Upload an image, choose a recognition mode, and let Visora transform visual data into machine-readable intelligence.
+
 ## Features
 
 - Upload JPG or PNG images and run either engine from a tabbed workspace
